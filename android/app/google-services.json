@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1048626144176",
+    "project_id": "fir-udemy-memo-app",
+    "storage_bucket": "fir-udemy-memo-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048626144176:android:930ffc836a46b8255dec75",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO6cT0-5eIe1xiarFTBd4aT3_3QxgiDAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
